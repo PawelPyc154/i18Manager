@@ -7,6 +7,9 @@ const CustomStyles = createGlobalStyle`
   body {
 
     ${tw`antialiased`}
+    background-color: ${tw`colors.gray.700`}
+
+
   }
 `
 

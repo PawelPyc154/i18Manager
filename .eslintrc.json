@@ -28,8 +28,15 @@
         "import/extensions": "off",
         "import/no-unresolved": "off",
         "react/react-in-jsx-scope": "off",
+        "react/require-default-props": "off",
         "operator-linebreak": "off",
         "no-use-before-define": "off",
+        "no-spaced-func": "off",
+        "func-call-spacing": "off",
+        "implicit-arrow-linebreak": "off",
+        "indent": "off",
+        "function-paren-newline": "off",
+        "react/jsx-one-expression-per-line": "off",
         "object-curly-newline": "off",
         "react/jsx-filename-extension": "off"
     }
